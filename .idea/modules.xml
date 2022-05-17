@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GoApiGrpc/GoApiGrpc.iml" filepath="$PROJECT_DIR$/GoApiGrpc/GoApiGrpc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GoApiProject.iml" filepath="$PROJECT_DIR$/.idea/GoApiProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbDiscover/dbDiscover.iml" filepath="$PROJECT_DIR$/dbDiscover/dbDiscover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/goapi/goapi.iml" filepath="$PROJECT_DIR$/goapi/goapi.iml" />
+    </modules>
+  </component>
+</project>
